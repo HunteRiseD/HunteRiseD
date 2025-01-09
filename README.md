@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Luckas Fernandes]  
+# 👋 Olá, eu sou Luckas Fernandes  
 
 Seja bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará um pouco sobre minha trajetória, habilidades e projetos.  
 
@@ -17,9 +17,8 @@ Sou, atualmente, estudante na área de Programação, mais avançado em Programa
 
 📫 Como me contatar:  
 - 📩 Email: [luckas.fernandes14@gmail.com](mailto:luckas.fernandes14@gmail.com)
-- 👾 Discord: [hunterised.](
 - 💼 LinkedIn: [Luckas Fernandes](https://www.linkedin.com/in/luckas-guylherme-souto-da-cunha-fernandes-8b9b16345/)  
-- 🌌 Portfólio: [LGFernandes](https://manage.wix.com/dashboard/71abb08a-925c-4007-89fa-ff5b53df927f/wix-portfolio/projects?referralInfo=sidebar)  
+- 🌌 Portfólio: [LFernandes](https://github.com/HunteRiseD)  
 
 ---
 
