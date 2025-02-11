@@ -8,7 +8,7 @@ Seja bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará um pouco sob
 Sou, atualmente, estudante na área de Programação pela Universidade Estadual do Rio de Janeiro, mais avançado em Programação Back-End, adquirindo novos conhecimentos em Front-End e constantemente em busca de novos desafios. 
 
 🔭 Atualmente estou trabalhando em:  
-- 🤖 [Exatas Bot](https://github.com/HunteRiseD/Exatas-Bot) 
+- 🌀 [Nexus Bot](https://github.com/HunteRiseD/Nexus-Bot) 
 - ➕ [Exatas Calc](https://github.com/HunteRiseD/Exatas-Calc)  
 
 🌱 Atualmente estou aprendendo:  
@@ -36,7 +36,7 @@ Sou, atualmente, estudante na área de Programação pela Universidade Estadual 
 ---
 
 ## 📂 Projetos Recentes  
-✨ [Exatas Bot](https://github.com/HunteRiseD/Exatas-Bot)  
+✨ [Nexus Bot](https://github.com/HunteRiseD/Nexus-Bot)  
 Discord Bot desenvolvido para áreas de Moderação de Servidores e comandos diversos (Ainda em atualizações Constantes)  
 
 🧨 [Exatas Calc](https://github.com/HunteRiseD/Exatas-Calc)  
